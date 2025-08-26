@@ -53,7 +53,7 @@ This Python project provides a fully automated system for fetching emails from O
 6. **Timetable Updates**
 
    * LLM-assisted updates for timetable modifications.
-   * Users can request specific changes (e.g., "Nathan only 11 to 12") and LLM returns a valid updated timetable.
+   * Users can request specific changes (e.g., "VARUN only 11 to 12") and LLM returns a valid updated timetable.
 
 7. **Candidate Scheduling**
 
