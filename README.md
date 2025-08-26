@@ -25,7 +25,7 @@ This Python project provides a fully automated system for fetching emails from O
      * `candidate_name`, `phone_number`, `email`
      * `notice_period`, `last_working_date`
      * `current_location`, `preferred_location`
-     * `total_experience`, `appian_experience`
+     * `total_experience`, `relevant_experience`
      * `certification`, `current_ctc`, `expected_ctc`
    * Handles missing fields by setting them to `null` and allows sending a **missing details request email**.
 
