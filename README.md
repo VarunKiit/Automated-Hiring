@@ -144,5 +144,4 @@ This project is ideal for **HR automation, recruitment tracking, and intelligent
 **Note** : 
 * I have created this as part of POC, therefore have made it a button style interface, further changes can be applied by incorporating Agentc AI architecture to create a chat interface that replaces buttons style with followup questions by adding a conversational agent in the current code. You also have the flexibility of replacing prompts and better LLM Models.  
 * In the current code, I have made features of candidate as static. There is also an option to make it dynamic to provide flexibility to user in creating his/her desired features.
-
-Do you want me to create that next?
+* In the current code, Scheduled information is getting saved to excel, but there is an extention possible to connect to outlook or team meeting to schedule automatically from the interface.
